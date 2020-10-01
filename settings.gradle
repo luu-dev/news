@@ -1,0 +1,2 @@
+rootProject.name='BTAP08'
+include ':app'
